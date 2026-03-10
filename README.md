@@ -47,6 +47,11 @@ run it:
 ```
 ./pictures.sh folder_with_images
 ```
+if you want to delete the directories created : 
+
+```
+rm -r all_pictures sorted_pictures
+```
 
 ---
 
